@@ -30,7 +30,9 @@ const Detail = () => {
           <br />
           <span>Uploaded Date: {movie.date_uploaded.substring(0, 10)}</span>
           <br />
-          <span>Description: {movie.description_full}</span>
+          <span className="description">
+            Description: {movie.description_full}
+          </span>
           <ul>
             <h3>Genres</h3>
             {movie.genres.map((genre) => (

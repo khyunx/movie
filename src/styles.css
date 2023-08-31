@@ -1,0 +1,50 @@
+.movieBox {
+	display: flex;
+	margin: 30px 50px;
+}
+
+.movieBox img {
+	width: 14%;
+	margin-right: 30px;
+}
+
+.movieBox div {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+
+.detail {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 50px 0;
+}
+
+.detail img{
+	width: 16%;
+}
+
+.detail div {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.detail div span {
+	font-size: 20px;
+}
+
+.detail span {
+	font-size: 18px;
+}
+
+.detail li {
+	font-size: 18px;
+}
+
+.description {
+	text-align: center;
+	padding: 0 200px;
+}
