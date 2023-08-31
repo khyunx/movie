@@ -1,0 +1,2 @@
+.movieBox{display:flex;margin:30px 50px}.movieBox img{margin-right:30px;width:14%}.movieBox div{justify-content:flex-start}.detail,.movieBox div{display:flex;flex-direction:column}.detail{align-items:center;margin:50px 0}.detail img{width:16%}.detail div{align-items:center;display:flex;flex-direction:column;justify-content:center}.detail div span{font-size:20px}.detail li,.detail span{font-size:18px}.description{padding:0 200px;text-align:center}
+/*# sourceMappingURL=main.7b35dcb2.css.map*/
